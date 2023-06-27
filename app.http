@@ -1,0 +1,8 @@
+###
+POST http://localhost:3000/customer/details
+Content-Type: application/json
+
+{
+    "name":"Ganesh",
+    "phoneNo":"1526142"
+}
